@@ -12,6 +12,7 @@ export default function withFavouriteNumber(component) {
     }
 }
 
+//definition of a a render prop!
 /*
  A function that takes a component as its first argument and returns a new component that wraps
  the given component, providing extra capabilities to it.
