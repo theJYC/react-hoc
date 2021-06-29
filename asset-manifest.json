@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/react-hoc/static/js/main.4bb64854.chunk.js",
-    "main.js.map": "/react-hoc/static/js/main.4bb64854.chunk.js.map",
+    "main.js": "/react-hoc/static/js/main.e5e63db4.chunk.js",
+    "main.js.map": "/react-hoc/static/js/main.e5e63db4.chunk.js.map",
     "runtime-main.js": "/react-hoc/static/js/runtime-main.7b8a44b7.js",
     "runtime-main.js.map": "/react-hoc/static/js/runtime-main.7b8a44b7.js.map",
     "static/js/2.5c102268.chunk.js": "/react-hoc/static/js/2.5c102268.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.7b8a44b7.js",
     "static/js/2.5c102268.chunk.js",
-    "static/js/main.4bb64854.chunk.js"
+    "static/js/main.e5e63db4.chunk.js"
   ]
 }

@@ -1,2 +1,0 @@
-(this.webpackJsonphoc=this.webpackJsonphoc||[]).push([[0],{10:function(e,n,r){"use strict";r.r(n);r(1);var t=r(4),c=r.n(t),o=r(3),s=r(0);var h=function(e){var n=e;return function(e){return Object(s.jsx)(n,Object(o.a)(Object(o.a)({},e),{},{number:67}))}}((function(e){return Object(s.jsxs)("div",{children:[Object(s.jsx)("h2",{children:"hello"}),Object(s.jsxs)("h3",{children:["This number, ",e.number,", came from the Higher Order Component"]})]})}));c.a.render(Object(s.jsx)(h,{}),document.getElementById("root"))}},[[10,1,2]]]);
-//# sourceMappingURL=main.4bb64854.chunk.js.map
